@@ -1,0 +1,3 @@
+[submodule "luditeam/www"]
+	path = luditeam/www
+	url = https://github.com/luditeam/core.git
